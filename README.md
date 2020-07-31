@@ -1,0 +1,2 @@
+# CoffeeMachine Stage 6
+ 
